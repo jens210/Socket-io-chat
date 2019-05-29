@@ -1,0 +1,21 @@
+{
+  "name": "example_api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.1",
+    "socket-io": "^1.0.0"
+  },
+  "description": "Small template for developing an express.js/angular 2+ application",
+  "engines": {
+    "node": "10.8.0",
+    "npm": "6.4.1"
+  }
+}
